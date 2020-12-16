@@ -41,9 +41,9 @@ $highlights_indigo: if($variant=='light', #95C4FC, #5689E7);
 $text_indigo: if($variant=='light', #102A4C, #BDDBFF);
 
 // warm_grey
-$warm_grey: #ADA29E;
-$light_warm_grey: #9B8E8A;
-$dark_warm_grey: #574F4A;
+$warm_grey: #4c566a;        // #ADA29E
+$light_warm_grey: #434c5e;  // #9B8E8A
+$dark_warm_grey: #2e3440;   // #574F4A
 
 // ui
 
@@ -69,11 +69,11 @@ $light_ui_700: #E6E6E6;
 $light_ui_900: #DEDEDE;
 
 // Dark UI
-$dark_ui_100: #474341;
-$dark_ui_300: #403C3A;
-$dark_ui_500: #393634;
-$dark_ui_700: #33302F;
-$dark_ui_900: #2B2928;
+$dark_ui_100: #4c566a;  // #474341
+$dark_ui_300: #434c5e;  // #403C3A
+$dark_ui_500: #3b4252;  // #393634
+$dark_ui_700: #353b49;  // #33302F
+$dark_ui_900: #2e3440;  // #2B2928
 
 $white: #FFF;
 $black: #000;
