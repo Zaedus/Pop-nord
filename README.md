@@ -4,9 +4,15 @@
 
 -------------------
 
-A GTK+ theme for Pop!_OS 
+A reskin of the GTK+ Theme for Pop_OS in the beautiful color scheme Nord.
 
+### Info
 
+Suggestions are always appreciated because I'm figuring this whole thing out as I go, and I'm sure I missed a lot. 
+
+The current release of Pop-nord seems to look pretty good for what I have used it for thus far, but again, please tell me any issues or ideas, and if you're really interested in this project becoming better, submit a pull request!
+
+By the way! The light theme just *does not look good* because this is intended for dark theme users only and will eventually be phased out once I figure out what I'm doing.
 ### Required Components
 -------------------
 Pop supports Gtk+ 3.22.x
@@ -20,7 +26,7 @@ Pop supports Gtk+ 3.22.x
 
 ### Recommendations
 
-- For GTK, use icons alongside [Pop Icon Theme](https://github.com/pop-os/icon-theme)
+- For GTK, use icons alongside [Zafiro Icon Theme](https://github.com/zayronxio/Zafiro-icons)
 - For fonts, use:
  > Window Titles: Fira Sans SemiBold 10
 
@@ -31,29 +37,6 @@ Pop supports Gtk+ 3.22.x
  > Monospace: Fira Mono Regular 11
 
 
-### Installation
-
-Pop is intended to be installed through the package manager. Packages for Pop are available in PPA:
-```
-sudo add-apt-repository ppa:system76/pop
-sudo apt update
-sudo apt install pop-theme
-```
-It's recommended to use the `pop-theme` metapackage, as this will pull in all components of the look. However, individual components can be installed separately, e.g:
-```
-sudo apt install pop-gtk-theme
-```
-It's also recommended to restart the GNOME Shell after applying the theme of your choice.
-
-Enter the Shell's command launcher
-```
-Alt + F2
-```
-
-This will restart the Shell after you hit Enter
-```
-r
-```
 
 
 
@@ -79,9 +62,9 @@ sudo apt install inkscape optipng
 
  ```
  sudo apt remove pop-gtk-theme
- sudo rm -rf /usr/share/themes/Pop*
- rm -rf ~/.local/share/themes/Pop*
- rm -rf ~/.themes/Pop*
+ sudo rm -rf /usr/share/themes/Pop-nord*
+ rm -rf ~/.local/share/themes/Pop-nord*
+ rm -rf ~/.themes/Pop-nord*
  ```
 
 2. Generate the theme files.
@@ -103,10 +86,6 @@ You shouldn't need to rebuild the entire theme after modifications. If you make
 changes to any GTK3 or GTK2 assets, delete the old rendered copies and use the
 `render-assets.sh` script to regenerate those with new ones with your 
 modifications. 
-
-TODO
-----
-* Prepare for Steam theming (priority: Low)
 
 Public License
 --------------
