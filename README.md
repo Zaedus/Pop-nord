@@ -12,6 +12,15 @@ Suggestions are always appreciated because I'm figuring this whole thing out as 
 The current release of Pop-nord seems to look pretty good for what I have used it for thus far, but again, please tell me any issues or ideas, and if you're really interested in this project becoming better, submit a pull request!
 
 By the way! The light theme just *does not look good* because this is intended for dark theme users only and will eventually be phased out once I figure out what I'm doing.
+
+### Why?
+
+It's the question on everybody's mind, isn't it? Why use this theme when I could get a better Nord theme? Well my first response to that is, ouch, and my second response is consistency. I really like the default Pop-dark theme, but I also like how clean Nord is, and I always find that there are inconsistencies when using custom themes in Pop. 
+
+With Pop-Nord, Pop Shop isn't visually broken like it is by other themes, and you still get the same feel that the default theme has.
+
+So, why? For the look of Nord and the feel of Pop.
+
 ### Required Components
 -------------------
 Pop supports Gtk+ 3.22.x
