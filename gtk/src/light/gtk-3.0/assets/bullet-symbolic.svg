@@ -99,7 +99,7 @@
      id="layer9"
      inkscape:groupmode="layer">
     <path
-       style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';text-indent:0pt;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#eceff4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78125;marker:none"
+       style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';text-indent:0pt;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78125;marker:none"
        sodipodi:nodetypes="csssc"
        id="path9555"
        d="m 388.00015,343.01754 c -1.64587,0 -2.98246,1.33658 -2.98246,2.98246 0,1.64587 1.33659,2.98246 2.98246,2.98246 1.64587,0 2.98246,-1.33659 2.98246,-2.98246 0,-1.64588 -1.33659,-2.98246 -2.98246,-2.98246 z"
