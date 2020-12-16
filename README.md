@@ -1,9 +1,8 @@
 <p align="center">
-<img src="https://github.com/system76/pop-gtk-theme/raw/master/Pop_gtk-logo.png"/>
+<img src="https://github.com/Zaedus/Pop-nord/raw/master/.github/Pop-nord.png"/>
 </p>
 
 -------------------
-
 A reskin of the GTK+ Theme for Pop_OS in the beautiful color scheme Nord.
 
 ### Info
