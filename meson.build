@@ -1,4 +1,4 @@
-project('Pop',
+project('Pop-nord',
         version: '5.0.0',
         meson_version: '>= 0.45',
         license : ['GPL3', 'CC BY-SA 4.0'],
