@@ -63,6 +63,10 @@ ninja
  ```bash
 ninja install
 ```
+4. For whatever reason, the install script doesn't link the Pop-nord-dark Gnome shell theme inside the themes folder which results in there not being a dark shell theme. To fix this we need to do it manually.
+```bash
+sudo ln -s /usr/share/gnome-shell/theme/Pop-nord-dark/ /usr/share/themes/Pop-nord-dark/gnome-shell
+```
 
 ### Recommendations
 
