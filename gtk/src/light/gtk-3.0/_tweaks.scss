@@ -2,7 +2,7 @@
 
 $small_radius: 4px;
 $_headerbar_button_bg: lighten($headerbar_bg_color, 4%);
-$_dark_border_color: rgb(20, 19, 19);;
+$_dark_border_color: rgb(20, 19, 19);
 
 // copied from drawing, modified the gradients here to have less diff in drawing
 @mixin yaru_headerbar_fill($c:$headerbar_color, $hc:$top_hilight, $ov: none) {
@@ -524,7 +524,7 @@ button.titlebutton {
   }
 
   &.close {
-    $_close_button_color: mix(#FFAD00, #E56A54, 50%);
+    $_close_button_color: mix(#bf616a, #bf616a, 50%); // #FFAD00 #E56A54
     color: $headerbar_fg_color;
     @include draw_circle($_close_button_color);
 
