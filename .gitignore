@@ -5,6 +5,7 @@ src/**/*.css
 src/gtk-*/**/assets/*.png
 src/gtk-2.0/**/assets/*.png
 debian/tmp
+.vscode
 
 # Build artefacts
 src/gtk-2.0/assets-dark.svg
