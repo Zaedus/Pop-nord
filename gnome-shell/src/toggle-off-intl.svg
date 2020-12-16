@@ -12,7 +12,7 @@
    height="22"
    version="1.1"
    id="svg16"
-   sodipodi:docname="toggle-off-intl.svg"
+   sodipodi:docname="toggle-off-dark.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata20">
@@ -22,12 +22,11 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#37474f"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -74,7 +73,7 @@
      stroke-width="1.085"
      id="g14">
     <rect
-       style="marker:none;fill:#686868;fill-opacity:1;stroke:#686868;stroke-opacity:1"
+       style="marker:none;fill:#5b667e;fill-opacity:1;stroke:#5b667e;stroke-opacity:1"
        width="44.446"
        height="20.911"
        x=".625"
@@ -90,7 +89,7 @@
        y="292.715"
        x="1.543"
        width="19.143"
-       style="fill:url(#b);stroke:#686868;stroke-opacity:1;marker:none"
+       style="fill:url(#b);stroke:#535d74;stroke-opacity:1;marker:none"
        id="rect12"
        height="18.910999" />
   </g>

@@ -12,7 +12,7 @@
    height="22"
    version="1.1"
    id="svg16"
-   sodipodi:docname="toggle-on-intl.svg"
+   sodipodi:docname="toggle-on-dark.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata20">
@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,7 +75,7 @@
      id="g14"
      style="stroke:#21a434;stroke-opacity:1">
     <rect
-       style="marker:none;stroke:#fbb86c;stroke-opacity:1;fill:#fbb86c;fill-opacity:1"
+       style="marker:none;stroke:#768bb2;stroke-opacity:1;fill:#768bb2;fill-opacity:1"
        width="44.446"
        height="20.911"
        x=".625"
@@ -92,7 +91,7 @@
        x="25.304001"
        height="18.910999"
        width="19.143"
-       style="fill:url(#b);stroke:#fbb86c;stroke-opacity:1;marker:none"
+       style="fill:url(#b);stroke:#768bb2;stroke-opacity:1;marker:none"
        id="rect12" />
   </g>
 </svg>

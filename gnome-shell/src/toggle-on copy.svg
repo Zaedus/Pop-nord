@@ -15,7 +15,7 @@
    id="svg2857"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="toggle-off.svg">
+   sodipodi:docname="toggle-on.svg">
   <defs
      id="defs2859">
     <linearGradient
@@ -106,17 +106,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.195123"
-     inkscape:cx="48.23419"
-     inkscape:cy="6.6631589"
+     inkscape:zoom="8.7549371"
+     inkscape:cx="40.993693"
+     inkscape:cy="9.1634726"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
-     inkscape:window-x="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="707"
+     inkscape:window-x="86"
      inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -153,13 +153,13 @@
      id="layer1"
      transform="translate(-444.64286,-782.36218)">
     <path
-       style="fill:none;fill-opacity:1;opacity:1"
+       style="fill:none;fill-opacity:1"
        d="M 18.019531 10.914062 A 9.5 9.5 0 0 0 18 11.5 A 9.5 9.5 0 0 0 27.5 21 L 35 21 L 37 21 L 44.5 21 A 9.5 9.5 0 0 0 54 11.5 A 9.5 9.5 0 0 0 53.980469 11.085938 A 9.5 9.5 0 0 1 44.5 20 L 37 20 L 35 20 L 27.5 20 A 9.5 9.5 0 0 1 18.019531 10.914062 z "
        transform="translate(444.64286,782.36218)"
        id="path900" />
     <path
-       style="fill:#5b667e;fill-opacity:1;stroke:#5b667e;stroke-opacity:1"
-       d="m 472.14286,783.36218 a 9.5,9.5 0 0 0 -9.5,9.5 9.5,9.5 0 0 0 9.5,9.5 h 7.5 2 7.5 a 9.5,9.5 0 0 0 9.5,-9.5 9.5,9.5 0 0 0 -9.5,-9.5 h -7.5 -2 z"
+       style="fill:#8fbcbb;fill-opacity:1;stroke:#8fbcbb;stroke-opacity:1"
+       d="m 472.64286,782.86218 a 9.5,9.5 0 0 0 -9.5,9.5 9.5,9.5 0 0 0 9.5,9.5 h 7.5 2 7.5 a 9.5,9.5 0 0 0 9.5,-9.5 9.5,9.5 0 0 0 -9.5,-9.5 h -7.5 -2 z"
        id="path872"
        inkscape:connector-curvature="0" />
     <rect
@@ -167,23 +167,23 @@
        id="rect934"
        width="15"
        height="15"
-       x="464.64285"
+       x="481.64285"
        y="786.86218"
        ry="7.392344" />
     <rect
        ry="7.392344"
        y="785.86218"
-       x="464.64285"
+       x="481.64285"
        height="15"
        width="15"
        id="rect912"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:0.2;fill-rule:nonzero;stroke:none;stroke-width:1.76470685;stroke-opacity:1;marker:none;filter:url(#filter930);enable-background:new" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:0.2;fill-rule:nonzero;stroke:none;stroke-width:1.76470685;stroke-opacity:1;marker:none;enable-background:new;filter:url(#filter930)" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#3b4252;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.76470685;stroke-opacity:1;marker:none;enable-background:new"
        id="rect3872"
        width="15"
        height="15"
-       x="464.64285"
+       x="481.64285"
        y="785.36218"
        ry="7.392344" />
     <path
@@ -193,8 +193,8 @@
        id="path902" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:0.2;fill-rule:nonzero;stroke:none;stroke-width:1.76470685;stroke-opacity:1;marker:none;enable-background:new"
-       d="m 472.03545,785.36218 c -4.09536,0 -7.39258,3.29722 -7.39258,7.39258 v 0.21484 c 0,0.1326 0.0127,0.26174 0.0195,0.39258 0.20406,-3.91019 3.41029,-7 7.37305,-7 h 0.21484 c 3.96276,0 7.16899,3.08981 7.37305,7 0.007,-0.13084 0.0195,-0.25998 0.0195,-0.39258 v -0.21484 c 0,-4.09536 -3.29722,-7.39258 -7.39258,-7.39258 z"
-       id="rect936"
-       inkscape:connector-curvature="0" />
+       d="M 44.392578 3 C 40.29722 3 37 6.2972196 37 10.392578 L 37 10.607422 C 37 10.740025 37.012703 10.869156 37.019531 11 C 37.223588 7.0898057 40.429822 4 44.392578 4 L 44.607422 4 C 48.570178 4 51.776412 7.0898057 51.980469 11 C 51.987297 10.869156 52 10.740025 52 10.607422 L 52 10.392578 C 52 6.2972196 48.70278 3 44.607422 3 L 44.392578 3 z "
+       transform="translate(444.64286,782.36218)"
+       id="rect936" />
   </g>
 </svg>
