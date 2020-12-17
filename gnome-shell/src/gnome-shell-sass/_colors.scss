@@ -3,10 +3,9 @@
 @import "ubuntu-colors";
 @import "pop_os_colors";
 
-$variant: "dark";
 $base_color: if($variant == 'light', #eceff4, #2e3440); 
 $text_color: if($variant == 'light', #2e3440, #d8dee9);
-$bg_color: if($variant == 'light', #e5e9f0, #3b4252);
+$bg_color: if($variant == 'light', #eceff4, #3b4252);
 $fg_color: if($variant == 'light', #3d4455, #d8dee9); 
 
 $dark_bg_color: $dark_ui_700;
