@@ -70,7 +70,7 @@ sudo ln -s /usr/share/gnome-shell/theme/Pop-nord-dark/ /usr/share/themes/Pop-nor
 
 ### Recommendations
 
-- For GTK, use icons alongside [Zafiro Icon Theme](https://github.com/zayronxio/Zafiro-icons) or
+- For GTK, use icons alongside [Zafiro Icons](https://github.com/zayronxio/Zafiro-icons) or [Tela Icons](https://www.opendesktop.org/p/1279924/)
 - For fonts, use:
  > Window Titles: Fira Sans SemiBold 10
 
