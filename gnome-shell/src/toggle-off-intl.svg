@@ -51,11 +51,11 @@
        id="a">
       <stop
          offset="0"
-         stop-color="#39393a"
+         stop-color="white"
          id="stop2" />
       <stop
          offset="1"
-         stop-color="#302f30"
+         stop-color="white"
          id="stop4" />
     </linearGradient>
     <linearGradient
@@ -73,7 +73,7 @@
      stroke-width="1.085"
      id="g14">
     <rect
-       style="marker:none;fill:#5b667e;fill-opacity:1;stroke:#5b667e;stroke-opacity:1"
+       style="marker:none;fill:#A6ABB4;fill-opacity:1;stroke:#A6ABB4;stroke-opacity:1"
        width="44.446"
        height="20.911"
        x=".625"
@@ -89,7 +89,7 @@
        y="292.715"
        x="1.543"
        width="19.143"
-       style="fill:url(#b);stroke:#535d74;stroke-opacity:1;marker:none"
+       style="fill:url(#b);stroke:#A6ABB4;stroke-opacity:1;marker:none"
        id="rect12"
        height="18.910999" />
   </g>
