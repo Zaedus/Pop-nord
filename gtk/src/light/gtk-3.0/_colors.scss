@@ -75,6 +75,6 @@ $suggested_bg_color: if($variant=='light', #82BF8C, #90CFB0);
 $suggested_border_color: if($variant=='light', darken($suggested_bg_color, 15%), $suggested_bg_color);
 $progress_bg_color: if($variant=='light', #63B1BC, #6ACAD8);
 $progress_border_color: if($variant=='light', darken($progress_bg_color, 15%), darken($progress_bg_color, 30%));
-$checkradio_bg_color: if($variant=='light', #8ea5cf, #6c80a5);
+$checkradio_bg_color: if($variant=='light', #768bb2, #6c80a5);
 $checkradio_fg_color: #eceff4;
 $spinner_fg_color: $fg_color;
