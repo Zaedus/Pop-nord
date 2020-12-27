@@ -22,7 +22,12 @@ With Pop-Nord, Pop Shop isn't visually broken like it is by other themes, and yo
 So, why? For the look of Nord and the feel of Pop.
 
 -------------------
+### Installation from Gnome-Look (Recommended)
 
+[https://www.pling.com/p/1460607/](https://www.pling.com/p/1460607/)
+#### OCS-Url (Recommended)
+
+#### Manual
 ### Installation from Git Source
 
 ##### This is assuming you already have Gtk3 and Gtk2 installed
@@ -70,7 +75,7 @@ sudo ln -s /usr/share/gnome-shell/theme/Pop-nord-dark/ /usr/share/themes/Pop-nor
 
 ### Recommendations
 
-- For GTK, use icons alongside [Zafiro Icons](https://github.com/zayronxio/Zafiro-icons) or [Tela Icons](https://www.opendesktop.org/p/1279924/)
+- For GTK, use icons alongside [Zafiro Icons](https://www.pling.com/p/1412411), [Tela Icons](https://www.opendesktop.org/p/1279924/), or [Faded Originals](https://www.pling.com/p/1437064/)
 - For fonts, use:
  > Window Titles: Fira Sans SemiBold 10
 
