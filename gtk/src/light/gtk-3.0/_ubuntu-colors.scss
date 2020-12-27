@@ -1,8 +1,8 @@
 // Blacks
-$jet: #181818;
-$inkstone: #3D3D3D;
-$slate: #5D5D5D;
-$graphite: #666666;
+$jet: #1e222a;
+$inkstone: #2e3440;
+$slate: #434c5e;
+$graphite: #4c566a;
 
 // Whites
 $white: #FFFFFF;
@@ -19,7 +19,7 @@ $blue: if($variant=='light', #63B1BC, #6ACAD8);
 $purple: if($variant=='light', #CF7DFF, #D58CFF);
 
 // Terminal colors
-$terminal_bg_color: #333;
+$terminal_bg_color: #41495c;
 $terminal_base_color: lighten($terminal_bg_color, 5%);
 $terminal_fg_color: white;
 $terminal_borders_color: darken($terminal_bg_color, 10%);
