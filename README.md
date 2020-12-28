@@ -50,7 +50,6 @@ sudo apt install inkscape optipng
 1. If previous versions were installed/existed, remove them first.
 
  ```bash
- sudo apt remove pop-gtk-theme
  sudo rm -rf /usr/share/themes/Pop-nord*
  rm -rf ~/.local/share/themes/Pop-nord*
  rm -rf ~/.themes/Pop-nord*
