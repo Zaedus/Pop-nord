@@ -6,4 +6,3 @@ project('Pop-nord',
 
 subdir('gnome-shell')
 subdir('gtk')
-subdir('sounds')
