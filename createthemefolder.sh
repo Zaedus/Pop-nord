@@ -64,3 +64,14 @@ cp -r $SHELL_DIR/$THEME_NAME$DARK_SUFFIX/* $LOCAL_THEMES_DIR/$THEME_NAME$DARK_SU
 rm -f $LOCAL_THEMES_DIR/$THEME_NAME$DARK_SUFFIX/gnome-shell/$THEME_NAME$DARK_SUFFIX # Remove the useless symbolic link
 
 echo "Done!"
+
+
+
+read -p 'Do you want to compress the themes? [y/N]: ' yn
+
+if [[ $yn == "y" ]]
+then
+    cd $LOCAL_THEMES_DIR
+    zip -r $THEME_NAME.zip $THEME_NAME
+    zip -r $THEME_NAME$DARK_SUFFIX.zip $THEME_NAME$DARK_SUFFIX
+fi
