@@ -21,3 +21,5 @@ obj-*
 
 test.py
 test.ui
+
+themes/
