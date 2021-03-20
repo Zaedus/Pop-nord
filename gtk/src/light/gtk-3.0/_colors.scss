@@ -24,7 +24,7 @@ $menu_color: if($variant == 'light', $base_color, mix($bg_color, $base_color, 20
 $popover_bg_color: $bg_color;
 $popover_hover_color: lighten($bg_color, 5%);
 
-$scrollbar_bg_color: if($variant == 'light', mix($bg_color, $fg_color, 80%), #768bb2);
+$scrollbar_bg_color: if($variant == 'light', mix($bg_color, $fg_color, 80%), mix($bg_color, $fg_color, 80%));
 $scrollbar_slider_color: #768bb2;
 $scrollbar_slider_hover_color: mix($fg_color, $bg_color, 80%);
 $scrollbar_slider_active_color: if($variant=='light', $bg_color, lighten($selected_bg_color, 10%));
